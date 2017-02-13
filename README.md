@@ -3,6 +3,12 @@
 Save the Cathedral of Learning from Deadly Skeletons!  
 Developed at SteelHacks 2017 by Esam Hossain & Nikush Dalia  
   
+Controls:  
+- WASD to move  
+- E to pick up weapons  
+- R to reload  
+- Mouse to move and shoot  
+
 UPDATE: WON SECOND PLACE!
   
 Built in Unity, with C# and Javascript.
