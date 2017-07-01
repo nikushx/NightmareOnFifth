@@ -1,7 +1,9 @@
 # Nightmare on Fifth
 
 Save the Cathedral of Learning from Deadly Skeletons!  
-Developed at SteelHacks 2017 by Esam Hossain & Nikush Dalia  
+Developed at SteelHacks 2017 by Esam Hossain & Nikush Dalia
+
+Demo: https://vimeo.com/223730402
   
 Controls:  
 - WASD to move  
